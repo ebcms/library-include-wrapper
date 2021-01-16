@@ -1,0 +1,11 @@
+{
+    "name": "ebcms/include-wrapper",
+    "description": "php include from stream wrappers",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ebcms\\": "src/"
+        }
+    }
+}
